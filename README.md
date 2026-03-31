@@ -97,6 +97,7 @@ rag-agent/
     |-- proxy.ts
   |- .env.example
   |- .env/.env.local
+  |- .gitattributes
   |- .gitignore
   |- components.json
   |- environment.d.ts
