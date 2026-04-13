@@ -4,14 +4,6 @@
 
 ![RAG Agent - The SaaS for Students](/.github/images/img_main.png "RAG Agent - The SaaS for Students")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/gowthamchandran/rag-agent?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran/rag-agent/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran/rag-agent/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/gowthamchandran/rag-agent?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran/rag-agent/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/gowthamchandran/rag-agent?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran/rag-agent/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/gowthamchandran/rag-agent?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran/rag-agent/issues "GitHub issues")
-[![GitHub pull reUpload PDF files](https://flat.badgen.net/github/prs/gowthamchandran/rag-agent?icon=github&color=black&scale=1.01)](https://github.com/gowthamchandran/rag-agent/pulls "GitHub pull reUpload PDF files")
-
 
 <!-- Table of Contents -->
 <details>
